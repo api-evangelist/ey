@@ -8,11 +8,37 @@ tags:
   - Accounting
   - Audit
   - Tax
-description: 'One of the Big Four professional services firms providing audit, tax, consulting, and advisory services. Operates in over 150 countries helping businesses navigate regulatory and strategic challenges.'
+  - Advisory
+  - Professional Services
+description: 'One of the Big Four professional services firms providing audit, tax, consulting, and advisory services. Operates in over 150 countries helping businesses navigate regulatory and strategic challenges, and runs proprietary technology platforms such as EY Helix (analytics), EY Atlas (research), and EY Canvas (audit) for internal and engagement use.'
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
+x-no-public-api: true
+x-no-public-api-reason: >-
+  EY does not publish a public developer portal, OpenAPI specs, or partner API
+  documentation. EY operates proprietary technology platforms (EY Helix
+  analytics, EY Atlas research, EY Canvas audit, EY Intelligent Tax) but those
+  systems are surfaced to clients through engagement teams and the EY Client
+  Portal rather than as self-service developer APIs. Any technical integrations
+  are arranged through engagement contracts and EY Technology Consulting.
 common:
   - type: Website
-    url: https://www.ey.com
+    url: https://www.ey.com/
+  - type: AboutUs
+    url: https://www.ey.com/en_gl/about-us
+  - type: ClientPortal
+    url: https://www.eyclientportal.com/
+  - type: Insights
+    url: https://www.ey.com/en_gl/insights
+  - type: News
+    url: https://www.ey.com/en_gl/newsroom
+  - type: Careers
+    url: https://www.ey.com/en_gl/careers
+  - type: ContactUs
+    url: https://www.ey.com/en_gl/contact-us
+  - type: PrivacyPolicy
+    url: https://www.ey.com/en_gl/privacy-statement
+  - type: TermsOfService
+    url: https://www.ey.com/en_gl/legal-statement
