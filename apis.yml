@@ -24,6 +24,8 @@ x-no-public-api-reason: >-
   Portal rather than as self-service developer APIs. Any technical integrations
   are arranged through engagement contracts and EY Technology Consulting.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ernstandyoung
   - type: Website
     url: https://www.ey.com/
   - type: AboutUs
