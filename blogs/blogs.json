@@ -1,0 +1,14 @@
+{
+  "repo": "ey",
+  "feeds": [
+    {
+      "source": "https://www.ey.com/en_gl/newsroom",
+      "feed_url": "https://www.ey.com/en_gl/newsroom",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 5
+}
