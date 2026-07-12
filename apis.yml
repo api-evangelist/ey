@@ -24,6 +24,8 @@ x-no-public-api-reason: >-
   Portal rather than as self-service developer APIs. Any technical integrations
   are arranged through engagement contracts and EY Technology Consulting.
 common:
+  - type: DomainSecurity
+    url: security/ey-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/ernstandyoung
   - type: Website
@@ -44,3 +46,5 @@ common:
     url: https://www.ey.com/en_gl/privacy-statement
   - type: TermsOfService
     url: https://www.ey.com/en_gl/legal-statement
+  - url: https://www.ey.com/en_gl/newsroom
+    type: Blog
