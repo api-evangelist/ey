@@ -32,6 +32,26 @@ tags:
   - Tax
   - Advisory
   - Professional Services
+  - Big Four
+  - Assurance
+  - Law
+  - Strategy
+  - Transaction
+  - Corporate Finance
+  - Technology
+  - Managed Service
+  - People And Workforce
+  - Sustainability
+  - ESG
+  - Risk Management
+  - Artificial Intelligence
+  - AI Agents
+  - Blockchain
+  - Zero-Knowledge Proofs
+  - Privacy
+  - Insights
+  - Research
+  - Industry Analysis
 description: 'One of the Big Four professional services firms providing audit, tax, consulting, and advisory services. Operates in over 150 countries helping businesses navigate regulatory and strategic challenges, and runs proprietary technology platforms such as EY Helix (analytics), EY Atlas (research), and EY Canvas (audit) for internal and engagement use.'
 created: '2026-05-05'
 modified: '2026-05-16'
@@ -70,3 +90,8 @@ common:
     url: https://www.ey.com/en_gl/legal-statement
   - url: https://www.ey.com/en_gl/newsroom
     type: Blog
+  - type: Website
+    url: https://www.ey.com/en_gl
+  - type: GitHubOrganization
+    name: EY Blockchain
+    url: https://github.com/EYBlockchain
