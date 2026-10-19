@@ -110,3 +110,32 @@
   relationship: platform-app
   status: not-a-workflow
   arazzo: null
+- slug: ey-snowflake-services-partner-program
+  label: Snowflake Services Partner Program
+  partner: snowflake
+  partner_name: Snowflake Services Partner Program
+  category: Services partner
+  type: register
+  channel: standard-directory
+  evidence: https://www.snowflake.com/en/why-snowflake/partners/all-partners/ernst--young-ey-australia/
+  source: edge
+  relationship: standard-participant
+  contract_reference:
+    register: Snowflake partner directory (filterable_resources.filter.json + partner model.json)
+    spec_file: null
+    standard: Snowflake services partner
+    role: snowflake-services-partner
+    registered_name: Ernst & Young (EY Australia)
+    register_id: ernst--young-ey-australia
+    partner_tier: Elite
+    matched_domain: ey.com
+    matched_by: domain+name-among-holders
+    identity_source: the register's own website / profile URL for the firm (no lookup)
+    signal_note: listing = participation; certified_products = one entry per designation the program awards the
+      FIRM (lapsed flagged); partner_tier and context are never counted (breadth is not credit)
+    detected_by: sweep-professional-services.py
+    detected: '2026-10-19'
+    context:
+      badge: Snowflake AI Data Cloud Elite Services Partner badge
+  status: not-a-workflow
+  arazzo: null
